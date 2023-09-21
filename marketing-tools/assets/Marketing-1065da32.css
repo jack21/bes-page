@@ -1,0 +1,1 @@
+.marketing h1{font-size:20px}.marketing .main{margin-top:20px}.marketing .main .title-wrapper{display:flex;flex-direction:row;align-items:center;justify-content:space-between}.marketing .main .file-wrapper{display:grid;grid-template-columns:1fr 1fr 1fr;column-gap:20px}.marketing .main .main-wrapper{display:grid;grid-template-columns:1fr 2fr;column-gap:20px;align-items:start}
