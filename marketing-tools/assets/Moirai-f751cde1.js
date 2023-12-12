@@ -1,1 +1,0 @@
-import{P as r,b as _,e as a,g as s,f as i}from"./index-761c70fc.js";const l=(o,n)=>{const e=o.__vccOpts||o;for(const[t,c]of n)e[t]=c;return e},d={},m={class:"moirai"};function p(o,n){const e=r("sidebar"),t=r("router-view");return _(),a("div",m,[s(e),i("main",null,[s(t)])])}const f=l(d,[["render",p]]);export{f as default};
