@@ -1,1 +1,0 @@
-import{_ as o,$ as r,o as t,c,b as s}from"./index-RbTbl8Ls.js";const n={},a={class:"moirai"};function _(i,m){const e=r("router-view");return t(),c("div",a,[s(e)])}const f=o(n,[["render",_]]);export{f as default};
