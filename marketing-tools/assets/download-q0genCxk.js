@@ -1,1 +1,0 @@
-import{o as e,c as o,a as t}from"./index-Nv7i9PDw.js";const n={class:"icon",viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"},c=t("path",{fill:"currentColor",d:"M5 20h14v-2H5m14-9h-4V3H9v6H5l7 7z"},null,-1),s=[c];function a(_,i){return e(),o("svg",n,[...s])}const r={name:"mdi-download",render:a};export{r as _};
