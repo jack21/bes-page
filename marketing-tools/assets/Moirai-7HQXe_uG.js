@@ -1,1 +1,0 @@
-import{_ as o}from"./_plugin-vue_export-helper-x3n3nnut.js";import{a2 as r,o as t,a as c,e as s}from"./index--eqrd9bg.js";const a={},n={class:"moirai"};function _(i,m){const e=r("router-view");return t(),c("div",n,[s(e)])}const d=o(a,[["render",_]]);export{d as default};
